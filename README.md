@@ -1,2 +1,2 @@
 # NEO
-This repository is for the Trapped in the System game.
+This repository is for the Neo's Escape game.
