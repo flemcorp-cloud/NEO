@@ -8,7 +8,7 @@ Course: CSS-225
 
 Instructor: Nathan Braun
 
-Where the Code hosted: https://github.com/flemcorp-cloud/NEO 
+Where is the Code hosted: https://github.com/flemcorp-cloud/NEO 
 
 External Services
 This game does not rely on any external services, APIs, or cloud-based platforms. All logic and gameplay are handled locally within the Python scripts.
